@@ -1,1 +1,1 @@
-0-alias-creates an alias
+makes /action the last directory the shell looks into in a program
